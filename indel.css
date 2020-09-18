@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(49, 233, 12);
+}
+
+.All{
+    
+margin: auto;
+    
+background: white;
+    
+width: 300px;
+
+height: 200px;
+    
+text-align: center;
+    
+margin-top: 220px;
+    
+box-shadow: 2px 9px 50px 1px black;
+}
+
+.abox input{
+    
+     padding: 6px;
+     margin-bottom: 14px;
+    
+
+}
+
+.bbox input{
+    
+    padding: 6px;
+    margin-bottom: 14px;
+}
+
+.btn input{
+    padding: 6px 70px;
+    margin-bottom: 25px;
+    border: none;
+    border-radius: 18px;
+    background: black;
+    color: white;
+    font-weight: 300;
+}
+
+.btn input:hover{
+
+    background: rgb(109 243 20);
+    color: rgb(2, 2, 2);
+
+
+}
+
+.title h4{
+    
+    padding: 15px;
+    font-size: 25px;
+    text-transform: uppercase;
+
+}
